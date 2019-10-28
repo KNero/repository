@@ -3,7 +3,11 @@
   <groupId>team.balam</groupId>
   <artifactId>jwt-security</artifactId>
   <versioning>
+<<<<<<< HEAD
     <release>0.2.1</release>
+=======
+    <release>0.2.0</release>
+>>>>>>> b7d9e22597c252091423e80cf7934d6a4a0e8e77
     <versions>
       <version>v0.0.1</version>
       <version>0.0.1</version>
@@ -25,8 +29,14 @@
       <version>0.1.7</version>
       <version>0.1.8</version>
       <version>0.1.9</version>
+<<<<<<< HEAD
       <version>0.2.1</version>
     </versions>
     <lastUpdated>20191028084810</lastUpdated>
+=======
+      <version>0.2.0</version>
+    </versions>
+    <lastUpdated>20191008014012</lastUpdated>
+>>>>>>> b7d9e22597c252091423e80cf7934d6a4a0e8e77
   </versioning>
 </metadata>
